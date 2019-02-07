@@ -1,3 +1,4 @@
+#nkn
 sum=0
 a=input().split()
 b=input().split()
