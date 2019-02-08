@@ -1,6 +1,5 @@
-n=int(input("Input:"))
+n=int(input())
 i=0
-print("Output:")
 while i<n:
   print("Hello")
   i=i+1
