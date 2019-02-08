@@ -1,5 +1,5 @@
-x=int(raw_input("Enter the year"))
+x=int(input())
 if(x%4==0):
-    print("YES")
+    print("yes")
 else:
-    print("NO")
+    print("no")
